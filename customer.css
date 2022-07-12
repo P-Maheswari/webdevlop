@@ -55,7 +55,7 @@ body{
 }
 
 .table-light, .table-light>td, .table-light>th {
-    background-color: rgb(190, 186, 186);
+    background-color: white;
 }
 .table-hover .table-light:hover>td{
     background-color: #7a7573;
